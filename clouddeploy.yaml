@@ -1,0 +1,15 @@
+steps:
+- name: 'gcr.io/cloud-builders/gcloud'
+  args:
+  - 'run'
+  - 'deploy'
+  - 'cloudrunservice'
+  - '--image'
+  - 'us-central1-docker.pkg.dev/$PROJECT_ID/test-artifacts/semblance-image:tag1'
+  - '--port'
+  - '4000'
+  - '--region'
+  - 'us-central1'
+  - '--platform'
+  - 'managed'
+  - '--allow-unauthenticated'
