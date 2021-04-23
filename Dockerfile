@@ -2,7 +2,7 @@ FROM node:latest
 
 RUN ls
 
-COPY ./* .
+COPY ./* ./
 
 EXPOSE 4000
 
