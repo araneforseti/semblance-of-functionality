@@ -81,7 +81,7 @@ creative_commons:
 # External url should start with http:// or https://
 menu:
   home: / || fa fa-home
-  Blog: /posts/ || fa fa-blog
+  Blog: /archives/ || fa fa-blog
   Swiss Cheese Model: /swiss-cheese/ || fa fa-cheese
   Test Types:
     default: /test-types/ || fa fa-bolt
