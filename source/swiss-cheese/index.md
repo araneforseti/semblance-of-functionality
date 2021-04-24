@@ -5,7 +5,7 @@ date: 2021-04-23 15:05:02
 
 # WHAT IS THE SWISS CHEESE MODEL?
 
-![Swiss Cheese Model](swiss-cheese-model.png)
+![Swiss Cheese Model](images/swiss-cheese-model.png)
 
 A multi-layered approach to ensuring the quality of a project, inspired by the Swiss cheese model of accident prevention used in aviation safety, engineering, and many other industries.
 
@@ -24,7 +24,7 @@ In order to exemplify how to use this model, we are going to go through the proc
 First, in order to know what your layers should be, you need to know what your concerns will be. Start with identifying key players – aka who cares about the project – and identify the concerns they have.
 
 Here is an example for a generic airline app API:
-![Airline API Mindmap](airline-api-who-cares-mindmap.png)
+![Airline API Mindmap](images/airline-api-who-cares-mindmap.png)
 
 For this exercise, it is important to note everyone and everything the app effects, regardless of their importance to the project and whether they are an intended actor (eg, end customers), negative actor (eg, malicious users), or indirect actor (business). Prioritization can come later, but it is important this exercise is an unfiltered list.
 
@@ -45,7 +45,7 @@ Finally, we want to make certain to call out any usage inside the business outsi
 ## Understand Architecture
 
 The next step is to take a look at your intended architecture. Even if the specifics might change, this step is for highlighting things such as integration points and dependencies. Additionally, as you learn more about the architecture, you can use the information to update your strategy based on the changes from the initial picture.
-![Airline API Architecture](airline-api-architecture.png)
+![Airline API Architecture](images/airline-api-architecture.png)
 
 The proposed architecture this fictional team has at this point in the project (the very beginning), involves a DB for any information the API needs to keep track of (eg, authentication information) which is independent of its dependencies.
 
@@ -81,7 +81,7 @@ Ultimately a layer needs to always be worth its cost. If you are introducing a l
 
 To answer this question, there is a small modification we need to make to the image of the swiss cheese model introduced above.
 
-![Swiss Cheese Model with bowl at bottom to catch the issues](swiss-cheese-bowl-model.png)
+![Swiss Cheese Model with bowl at bottom to catch the issues](images/swiss-cheese-bowl-model.png)
 
 There is no such thing as perfection. There can be flaws in every step of the process or simply a shift in the market leading to a product not performing to perfection. As a result, we cannot measure our strategy’s success simply by bugs or some similar metric. Instead, our metric should focus on the fallout when there is a problem.
 

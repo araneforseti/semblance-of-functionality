@@ -7,7 +7,7 @@ Everyone’s favorite test type – it is fast, small, sleek, the perfect compan
 
 These days, most everyone is on the “write tests” bandwagon, so most languages will have some form of testing framework built in. If the built in framework is not your cup of tea, there are usually many others out there to choose from!
 
-![Test Pyramid](test-pyramid.png)
+![Test Pyramid](images/test-pyramid.png)
 
 As you can see in our test pyramid above, unit tests occupy the base of the pyramid. The rule of thumb with these tests is “If it fits, it is a unit test!” If you can test something in the unit layer without creating complicated tests to deal with dependencies, this is where this test goes!
 
