@@ -1,7 +1,9 @@
 ---
 title: What is in a Name
+date: 2021-06-27 12:52:09
 tags:
 ---
+
 
 I subscribe to this idea: "Every test has a purpose and every concern has a layer" (if this phrase sounds nonsensical to you, please review the {% post_link swiss-cheese 'Swiss Cheese Model' %} which sounds nice and lovely.
 As a result, I hereby propose we purge the phrase of "Functional Tests" from our collective vocabulary. It is a phrase which tells you nothing other than that there are tests and they tests functionality. Likewise, I propose we stop considering "Integration Tests" as its own test type and instead consider it as an umbrella term for a test category.
