@@ -1,7 +1,7 @@
 ---
 title: API Testing Suggestions
 date: 2021-04-23 17:52:11
-tags:
+tags: api
 ---
 
 # USER JOURNEY FLOWS

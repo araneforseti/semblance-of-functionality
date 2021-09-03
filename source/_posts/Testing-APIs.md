@@ -1,7 +1,7 @@
 ---
 title: Testing APIs
 date: 2021-04-23 17:51:19
-tags:
+tags: api
 ---
 
 On the surface, testing an API is similar to testing of other products – user flows, security, edge case behavior, etc, but different in that the first consumer of the API is a developer rather than a customer using a GUI of an app.
