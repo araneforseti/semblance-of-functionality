@@ -11,4 +11,9 @@ I am a Quality Strategist with 10 years of experience working for various client
 
 I try to record my experiences, discoveries, and thought processes here in this blog.
 
+Tools created:
+- [api-tester](https://github.com/araneforseti/api-tester), a ruby gem for testing APIs
+- [injection-vulnerability-library](https://github.com/araneforseti/injection_vulnerability_library), a ruby gem to just return injection possibilities
+- [heimdallr-viz](https://github.com/araneforseti/heimdallr-viz) a ruby gem for taking component based screenshot comparisons
+
 {% fa_css %}
