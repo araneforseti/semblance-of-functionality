@@ -83,6 +83,9 @@ menu:
   home: / || fa fa-home
   Blog: /archives/ || fa fa-blog
   Swiss Cheese Model: /swiss-cheese/ || fa fa-cheese
+  Product Types:
+    default: /product-types/ || fa fa-bullseye
+    API: /api || fa fa-paper-plane
   Test Types:
     default: /test-types/ || fa fa-bolt
     Unit Test: /unit-tests || fa fa-dice-one
