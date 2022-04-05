@@ -7,9 +7,9 @@ date: 2021-04-23 17:47:24
 <a href="https://github.com/araneforseti">{% fa_inline github fab %}</a>     <a href="https://www.linkedin.com/in/shutchin/">{% fa_inline linkedin fab %}</a>
 </div>
 
-I am a Quality Strategist with 10 years of experience working for various clients.
+Sarah Hutchins is a Quality Strategist with 10 years of experience working for various clients. Currently employed at [Amboss](https://www.amboss.com/), previously employed at [ThoughtWorks](https://www.thoughtworks.com/).
 
-I try to record my experiences, discoveries, and thought processes here in this blog.
+Here I record my experiences, discoveries, and thought processes here in this blog.
 
 Tools created:
 - [api-tester](https://github.com/araneforseti/api-tester), a ruby gem for testing APIs
