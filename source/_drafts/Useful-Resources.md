@@ -1,0 +1,2 @@
+- [Test Tours](https://www.getxray.app/blog/test-tours-exploratory-testing-strategy-qa-teams)
+- [Improvement Theme Retro](https://blog.crisp.se/2013/05/14/jimmyjanlen/improvement-theme-simple-and-practical-toyota-kata)
