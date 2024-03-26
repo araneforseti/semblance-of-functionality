@@ -8,12 +8,12 @@ Introducing a new retro format called “Improvement Themes”!
 In order to have a more valuable retro with small, actionable items as an outcome, this format takes inspiration from Toyota’s Improvement Kata and consists of small, focused discussions with the goal of finding 3 small action items per topic.
 
 The retro format is broken into 5 timeboxed sections:
-Topics to Discuss
-(For Each Topic Chosen)
-Current State
-Ideal State
-Next Steps
-Assign Action Items
+- Topics to Discuss
+- (For Each Topic Chosen)
+- Current State
+- Ideal State
+- Next Steps
+- Assign Action Items
 
 In Topics to Discuss, everyone spend 5 minutes writing topics to discuss. Ideally, these topics are ones which affected the previous iteration and can be improved. Once everyone is done writing, the group then votes on what to talk about.
 
